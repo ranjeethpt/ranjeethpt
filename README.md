@@ -14,3 +14,4 @@ Beyond work, I'm passionate about travel (21 countries so far), meeting new peop
 
 I'm currently learning to surf, which is more challenging than I expected. Despite my fair share of falls (around 1 hour and 45 minutes' worth!), I did manage to capture a cool photo of the experience during my trip to Hawaii.
 
+![surfing](https://github.com/ranjeethpt/ranjeethpt/assets/12077688/0dfee2e9-42b3-4b71-a8c9-473f471782fd)
